@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**DuckyDuck227/DuckyDuck227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-semester **Electrical Engineering** student at **HKA Karlsruhe**.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on my first hardware projects
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Python, C++, CAD, simulations and penetration testing
+  
+- 👯 I'm looking to collaborate on robotics, drone and hackathon projects
+  
+- 🤔 I'm looking for help with hardware development and prototyping
+  
+- 💬 Ask me about robotics, aerospace and cargo airships
+
+- 📫 How to reach me: here on GitHub
+
+### 🤖 Interests
+- Robotics & automation
+- Control engineering
+- Drones, aerospace & robotic cargo airships
+- Cybersecurity
+- Programming
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-basics-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-basics-00599C?logo=cplusplus&logoColor=white)
+
+### 🚀 Projects
+Coming soon...
